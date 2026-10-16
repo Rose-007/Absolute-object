@@ -2,7 +2,6 @@
 Absolute-Recursive-Crystallization-Architecture 
 
 [[Original post (Thai)](https://www.facebook.com/share/p/1QW5sdW3cZ/)](
-![](Absolute-object.jpg)
 
 ```markdown
 # Absolute Object & The 3 Levels of Truth: Architectural Foundations
@@ -55,4 +54,8 @@ Applying the **Absolute Object** framework to the **AI-Success** system architec
 
 > **Core Axiom:** *Keep the Principle pure and immovable; adapt the Method to align with immediate reality. The Principle does not move; the Method moves to protect the Principle.* $\lambda Ob$
 
-```
+---
+## 
+![](Absolute-object.jpg)
+
+
