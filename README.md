@@ -52,10 +52,6 @@ Applying the **Absolute Object** framework to the **AI-Success** system architec
 * **The Method (วิธีคิด):** 
   * Adjusted dynamically according to current conditions and real-world awareness. For instance, rather than merging operational modules prematurely before formalizing legal foundations (such as a foundation status), the structure holds the allocation within the original principle while pausing direct integration until the timing and environment align correctly.
 
-#License & copyright
-
-![](Absolute-object.jpg)
-
 > **Core Axiom:** *Keep the Principle pure and immovable; adapt the Method to align with immediate reality. The Principle does not move; the Method moves to protect the Principle.* $\lambda Ob$
 
 ---
